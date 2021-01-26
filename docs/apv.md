@@ -110,10 +110,10 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Tedeapolis, wordt hierbij ing
     * ANWB
     * Gemeenteraad
 
-### Artikel 7 - Cop-baiting
+### Artikel 7 - Uitdagen
 
 1. Hij/zij die moedwillig ambtenaren uitlokt met de intentie deze te irriteren en/of bezig te houden zal bestraft worden met een straf volgens de 1e categorie.
-2. De overtreding zoals beschreven in lid 1 staat bekend als “cop-baiting”
+2. Hij/zij die moedwillig burgers uitlokt met de intentie deze te irriteren, bezig te houden en/of de roleplaytijd te verzieken zal bestraft worden met een straf volgens de 1e categorie.
 
 ### Artikel 8 - Spam
 
@@ -405,7 +405,7 @@ Het overtreden van het feit beschreven in lid 1 zal worden gestraft met een stra
 * Geen server/roleplay verstorend gedrag (Mic spammen, trollen etc).
 * Geen Metagaming (Gebruik maken van informatie wat jouw karakter niet kan weten en of andere discord kanalen dan de main discord).
 * Geen Overheidsvoertuigen stelen of kleding dragen.(Politie, ambulance en ANWB auto’s mogen niet door burgers gereden worden).
-* Geen Cop-baiting (politie uitdagen/uitlokken).
+* Geen cop-baiting (politie uitdagen/uitlokken).
 * Geen Spam (de chat vol spammen met nutteloze berichten)
 * Geen Combat Logging (Zomaar de server verlaten tijden bijvoorbeeld een ontvoering).
 * Niet overdreven schelden. (Geen Kanker en dergelijke, maakt niet uit of het bij je karakter hoort of niet. Hier wordt extra streng op gestraft.)
