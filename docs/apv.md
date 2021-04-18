@@ -36,7 +36,7 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Tedeapolis, wordt hierbij ing
     * Categorie 3: een ban van maximaal 2 dag
     * Categorie 4: een ban van maximaal 3 dagen
     * Categorie 5: een ban van maximaal 1 week
-    * Categorie 6: een ban van maximaal 1 maand
+    * Categorie 6: een ban van maximaal 1 dag
     * Categorie 7: permanente ban
     * Categorie 8: account wipe
 
