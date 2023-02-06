@@ -760,6 +760,8 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 | **1001-2500**  | 160 maanden  |   | € 25000,-  |
 | **2501 en meer**  | 190 maanden  |   | € 30000,-  |
 
+Voeg op een willekeurige plek het artikel toe.
+
 ## Titel V - Wet Wapens en Munitie
 
 ![Titel V](img/wetboek/WWM.webp)
